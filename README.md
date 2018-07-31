@@ -12,7 +12,8 @@ JRebel 2018.1 and later version Activation address was: http://localhost:18082/{
 ```
 # 反向代理破解
 1、下载破解工具
-https://github.com/ilanyu/ReverseProxy/releases，在这个网址里，mac用户下载ReverseProxy_darwin_amd64，window用户下载相应的exe文件即可，因为window的操作比mac的相对简单，所以这里主要讲mac，window的除了打开该文件的方式不一样之外，接下来的其他操作都是一样的。
+https://github.com/ilanyu/ReverseProxy/releases
+在这个网址里，mac用户下载ReverseProxy_darwin_amd64，window用户下载相应的exe文件即可，因为window的操作比mac的相对简单，所以这里主要讲mac，window的除了打开该文件的方式不一样之外，接下来的其他操作都是一样的。
 
 注意：mac用户用safair下载，不要用谷歌，因为谷歌下载之后会把文件后面的dms的后缀名给启动去掉，切记。
 
