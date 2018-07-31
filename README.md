@@ -10,7 +10,7 @@ JetBrains Activation address was: http://localhost:18082/
 JRebel 7.1 and earlier version Activation address was: http://localhost:18082/{tokenname}, with any email.
 JRebel 2018.1 and later version Activation address was: http://localhost:18082/{guid}(eg:http://localhost:18082/5eaf3650-844a-46d9-9362-8f23750f3f8b), with any email.
 ```
-#反向代理破解
+# 反向代理破解
 1、下载破解工具
 https://github.com/ilanyu/ReverseProxy/releases，在这个网址里，mac用户下载ReverseProxy_darwin_amd64，window用户下载相应的exe文件即可，因为window的操作比mac的相对简单，所以这里主要讲mac，window的除了打开该文件的方式不一样之外，接下来的其他操作都是一样的。
 
