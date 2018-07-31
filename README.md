@@ -1,6 +1,6 @@
 # jrebel
 1. chmod -R 777 JrebelBrainsLicenseServerforJava-1.0-SNAPSHOT-jar-with-dependencies.jar
-2. java -jar JrebelBrainsLicenseServerforJava-1.0-SNAPSHOT-jar-with-dependencies.jar -p 8083 &
+2. java -jar JrebelBrainsLicenseServerforJava-1.0-SNAPSHOT-jar-with-dependencies.jar -p 18082 &
 3. print INFO:
 ```
 2018-07-31 13:51:54.835:INFO:oejs.Server:jetty-8.y.z-SNAPSHOT
